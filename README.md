@@ -47,4 +47,4 @@ This repository includes an interactive UBERS Simulator (HTML) for exploring:
 - Resilience Bridge generation  
 - Community vulnerability patterns  
 
-Upload location: https://aidea1.github.io/agent-epidemiology/
+Access at: https://aidea1.github.io/agent-epidemiology/
