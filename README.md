@@ -1,4 +1,4 @@
-# Agentic Epidemiology & The UBERS Sentinel System
+# Agentic Epidemiology with Sentinel System
 Engineering Rural Health Resilience through Autonomous Digital Infrastructure  
 Principal Investigator: Akshaya S. Bhagavathula, PhD, FACE  
 Department of Public Health, North Dakota State University
@@ -47,4 +47,4 @@ This repository includes an interactive UBERS Simulator (HTML) for exploring:
 - Resilience Bridge generation  
 - Community vulnerability patterns  
 
-Upload location:
+Upload location: https://aidea1.github.io/agent-epidemiology/
