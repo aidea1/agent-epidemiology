@@ -1,7 +1,8 @@
 # Agentic Epidemiology with Sentinel System
 Engineering Rural Health Resilience through Autonomous Digital Infrastructure  
-Principal Investigator: Akshaya S. Bhagavathula, PhD, FACE  
-Department of Public Health, North Dakota State University
+Principal Investigator: Akshaya S. Bhagavathula, PhD, FACE
+Professor of Epidemiology, Department of Public Health, 
+North Dakota State University, Fargo, ND, USA
 
 ## Project Summary
 Agentic Epidemiology is a systems-engineering approach to rural health resilience. This project integrates:
